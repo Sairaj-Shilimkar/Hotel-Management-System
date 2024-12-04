@@ -21,12 +21,12 @@
     &quot;assignee&quot;: &quot;Sairaj-Shilimkar&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Sairaj-Shilimkar/Hotel-Management-System.git&quot;,
-    &quot;accountId&quot;: &quot;0671e321-2af5-4bdd-91e5-cae57bfb0186&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sairaj-Shilimkar/Hotel-Management-System-backend.git",
+    "accountId": "0671e321-2af5-4bdd-91e5-cae57bfb0186"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
